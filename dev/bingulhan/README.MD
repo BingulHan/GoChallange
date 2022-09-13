@@ -2,4 +2,7 @@
 
 <p>TR: Golang esnek bir dildir bu sayede bir çok alanda proje geliştirmenize olanak sağlar. Go ile sistem ve ağ programlama, big data, web, CLI ve masaüstü alanlarında proje geliştirebilirsiniz. Go, sunucu ve alt sistemler geliştirmek için harika bir dildir.</p>
 
+<p>How is the code run? go run day1.go</p>
+<p>kod nasıl çalıştırılır? go run day1.go</p>
+
 <h3>Link: https://go.dev/dl/</h3>
